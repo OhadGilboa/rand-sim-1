@@ -52,3 +52,15 @@ i:active{font-size: 0.5em}
 
 .fa-trash{color: #e74c3c}
 .fa-check-circle{color: #27ae60}
+
+.LOW {
+    background-color: lightgreen;
+}
+
+.MEDIUM {
+    background-color: orange;
+}
+
+.HIGH {
+    background-color: red;
+}
